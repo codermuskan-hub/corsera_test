@@ -1,15 +1,12 @@
+<!DOCTYPE html>
 <html>
 <head>
-
-<title>
-Muskan Sharma 
-</title>
-
+  <title>HTML Elements Reference</title>
 </head>
+<body>
 
-<body background="green">
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
 
-<h1>Muskan Sharma</h1>
 </body>
-
 </html>
